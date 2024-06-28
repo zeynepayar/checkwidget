@@ -1,0 +1,10 @@
+C:\Users\zeyne\source\repos\daily_check\daily_check\obj\Debug\daily_check.csproj.AssemblyReference.cache
+C:\Users\zeyne\source\repos\daily_check\daily_check\obj\Debug\daily_check.Form1.resources
+C:\Users\zeyne\source\repos\daily_check\daily_check\obj\Debug\daily_check.Properties.Resources.resources
+C:\Users\zeyne\source\repos\daily_check\daily_check\obj\Debug\daily_check.csproj.GenerateResource.cache
+C:\Users\zeyne\source\repos\daily_check\daily_check\obj\Debug\daily_check.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\source\repos\daily_check\daily_check\bin\Debug\daily_check.exe.config
+C:\Users\zeyne\source\repos\daily_check\daily_check\bin\Debug\daily_check.exe
+C:\Users\zeyne\source\repos\daily_check\daily_check\bin\Debug\daily_check.pdb
+C:\Users\zeyne\source\repos\daily_check\daily_check\obj\Debug\daily_check.exe
+C:\Users\zeyne\source\repos\daily_check\daily_check\obj\Debug\daily_check.pdb
